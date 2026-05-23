@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-I'm Muammer Can, an Embedded Systems Engineer based in Turkey.
+I'm Can, an Embedded Systems Engineer based in Turkey.
 
 I mostly work on electronics product R&D — focusing on power electronic and embedded hardware development.
 
